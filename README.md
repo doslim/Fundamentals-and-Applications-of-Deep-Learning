@@ -1,4 +1,4 @@
-# Fundamentals and Applications of deep learning
+# Fundamentals and Applications of Deep Learning
 《深度学习基础与应用》主要根据各类参考资料编写而成，包括但不限于：教学视频，经验分享贴，相关书籍等，仅供内部学习交流使用，不得用于其他用途。
 
 目前已经更新到了第二版，包含的内容有：
